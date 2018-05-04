@@ -1,0 +1,25 @@
+.a{
+    height: 100px;
+    /*background-color: aqua;*/
+}
+.b{
+    height: 500px;
+    background-color: aquamarine;
+}
+.b1 img{
+    height: 80%;
+    width: 80%;
+    object-fit: cover;
+}
+.a1{
+    background-color: beige;
+}
+.a2{
+    background-color: aquamarine;
+}
+.b2{
+    font-size: 1.5em;
+}
+p{
+    font-size: 1.5em;
+}
